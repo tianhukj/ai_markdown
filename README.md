@@ -12,6 +12,7 @@
 > [!IMPORTANT]
 > An alert of type 'important' using global style 'callout'.
 
+---
 
 <details> <summary>标题</summary>
     contents ...
