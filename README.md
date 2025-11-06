@@ -9,5 +9,5 @@
 > [!WARNING]
 > An alert of type 'warning' using global style 'callout'.
 
-> [!ATTENTION]
-> An alert of type 'attention' using global style 'callout'.
+> [!IMPORTANT]
+> An alert of type 'important' using global style 'callout'.
